@@ -9,7 +9,7 @@ dotenv.config();
 const app = express();
 app.use(requestIp.mw());
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8000;
 const api = process.env.WEATHER_API_KEY;
 console.log(api);
 
