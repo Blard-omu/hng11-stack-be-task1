@@ -13,7 +13,7 @@ Weather Greeting API is a simple Node.js and Express application that provides a
 Sign up on (http://www.weatherapi.com) and get your api key.
 
 ### Folder Structure: 
-
+```
 HNG11/
 |-- src/
 |   |-- controllers/
@@ -26,6 +26,7 @@ HNG11/
 |-- package.json
 |-- .env
 
+```
 
 ## Setup and Installation
 
